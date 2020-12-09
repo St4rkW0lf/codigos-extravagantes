@@ -1,4 +1,4 @@
-# Códigos Extravagantes
-Aqui serão postados códigos extravagantes que foram descartados de projetos originais
+# Codigos Extravagantes
+Códigos extravagantes que foram descartados de projetos originais
 
 Livre para todos os públicos.
