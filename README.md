@@ -1,4 +1,4 @@
-# Códigos Extravagantes
+# 🛠️ Códigos Extravagantes 🛠️
 
 <img src="https://i.imgur.com/WlcdlRf.gif" align="left" width="200px">
 
